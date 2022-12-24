@@ -1,0 +1,21 @@
+ref_state_id,state_name,ref_district_id,district_name,cattle,buffalo,sheep,goat,horse,pony,mule,donkey,camel,pig,Total_poultry
+12,Arunachal Pradesh,245,Tawang,17362,2,3195,1895,31,1285,0,0,0,2607,17916
+12,Arunachal Pradesh,246,West Kameng,15215,11,2001,5764,95,1354,0,0,0,3028,30797
+12,Arunachal Pradesh,247,East Kameng,24749,64,8,16071,6,0,0,0,0,26376,167698
+12,Arunachal Pradesh,248,Papum Pare,28890,1631,48,14844,0,0,0,0,0,20080,171771
+12,Arunachal Pradesh,249,Upper Subansiri,15813,580,86,11903,0,0,0,0,0,25734,77884
+12,Arunachal Pradesh,250,West Siang,11568,0,56,5070,1,149,0,0,0,13148,57314
+12,Arunachal Pradesh,251,East Siang,35946,272,0,11881,0,3,0,0,0,24724,111823
+12,Arunachal Pradesh,252,Upper Siang,7220,0,9,3198,0,0,0,0,0,16545,101358
+12,Arunachal Pradesh,253,Changlang,26569,849,875,13129,1,63,0,0,0,14216,127426
+12,Arunachal Pradesh,254,Tirap,2143,0,2,3378,0,0,0,0,0,5272,33373
+12,Arunachal Pradesh,255,Lower Subansiri,38175,76,334,12113,4,0,0,0,0,24520,144371
+12,Arunachal Pradesh,256,Kurung Kumey,1637,0,3,4817,0,0,0,0,0,18688,89550
+12,Arunachal Pradesh,257,Dibang Valley,211,0,0,982,0,4,0,0,0,2449,23073
+12,Arunachal Pradesh,258,Lower Dibang Valley,14524,1367,0,5772,0,0,0,0,0,8570,92078
+12,Arunachal Pradesh,259,Lohit,66448,1466,10,30881,3,52,0,0,0,21764,158630
+12,Arunachal Pradesh,260,Anjaw,1360,0,0,961,0,0,0,0,0,5109,14655
+12,Arunachal Pradesh,675,Longding,2802,0,0,809,0,0,0,0,0,3977,11065
+12,Arunachal Pradesh,700,NAMSAI,8344,61,0,3258,0,0,0,0,0,3728,33097
+12,Arunachal Pradesh,707,Kra Daadi,9503,0,718,11146,0,0,0,0,0,16701,83276
+12,Arunachal Pradesh,708,SIANG,10742,0,0,1868,0,0,0,0,0,14227,52420

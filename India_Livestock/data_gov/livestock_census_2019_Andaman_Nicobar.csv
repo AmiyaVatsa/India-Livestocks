@@ -1,0 +1,4 @@
+ref_state_id,state_name,ref_district_id,district_name,cattle,buffalo,sheep,goat,horse,pony,mule,donkey,camel,pig,Total_poultry
+35,Andaman And Nicobar Islands,638,Nicobars,2004,49,0,8884,0,0,0,0,0,30266,82702
+35,Andaman And Nicobar Islands,639,North And Middle Andaman,15718,2617,0,27664,0,0,0,2,0,4956,493083
+35,Andaman And Nicobar Islands,640,South Andamans,18716,1034,5,28213,0,0,0,0,0,5266,713375

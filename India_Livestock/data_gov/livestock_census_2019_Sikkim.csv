@@ -1,0 +1,5 @@
+ref_state_id,state_name,ref_district_id,district_name,cattle,buffalo,sheep,goat,horse,pony,mule,donkey,camel,pig,Total_poultry
+11,Sikkim,241,North District,11918,49,337,3595,25,0,0,0,0,2053,38566
+11,Sikkim,242,West District,42639,857,985,30515,72,0,0,0,0,8862,137801
+11,Sikkim,243,South District,46589,151,591,27158,0,0,0,0,0,9054,244516
+11,Sikkim,244,East District,46864,87,103,29238,18,0,0,2,0,7351,159981
