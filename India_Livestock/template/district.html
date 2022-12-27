@@ -1,0 +1,48 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    districts
+{% endblock %}
+
+{% block main %}
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th scope="col">STATE NAME</th>
+            <th scope="col">DISTRICT</th>
+            <th scope="col">CATTLE</th>
+            <th scope="col">BUFFALO</th>
+            <th scope="col">SHEEP</th>
+            <th scope="col">GOAT</th>
+            <th scope="col">HORSE</th>
+            <th scope="col">PONY</th>
+            <th scope="col">MULE</th>
+            <th scope="col">DONKEY</th>
+            <th scope="col">CAMEL</th>
+            <th scope="col">PIG</th>
+            <th scope="col">POULTRY</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        {% for row in data %}
+        <tr>
+            <td>{{ row.STATE }}</td>
+            <td>{{ row.DISTRICT }}</td>
+            <td>{{ row.CATTLE }}</td>
+            <td>{{ row.BUFFALO }}</td>
+            <td>{{ row.SHEEP }}</td>
+            <td>{{ row.GOAT }}</td>
+            <td>{{ row.HORSE }}</td>
+            <td>{{ row.PONY }}</td>
+            <td>{{ row.MULE }}</td>
+            <td>{{ row.DONKEY }}</td>
+            <td>{{ row.CAMEL }}</td>
+            <td>{{ row.PIG }}</td>
+            <td>{{ row.POULTRY }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+
+</table>
+{% endblock %}
