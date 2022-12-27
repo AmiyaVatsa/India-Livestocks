@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>India Livestocks</title>
+
+    <link href="/static/style.css" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+
+
+    <nav class="navbar bg-dark" data-bs-theme="dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">Livestock <span class="orange">In</span><span class="white">d</span><span class="green">ia</span></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon" color="white"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="/"><span class="orange">Home</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/state.html"><span class="white">State Wise Data</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/district.html"><span class="green">District Wise Data</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/about_us.html">More Info</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container-fluid py-5 text-center">
+        {% block main %}{% endblock %}
+    </main>
+
+    <footer class="mb-5 small text-center text-muted">
+      Data Taken From: <a href="https://data.gov.in/">Open Government Data (OGD) Platform India</a>
+    </footer>
+
+  </body>
+</html>
