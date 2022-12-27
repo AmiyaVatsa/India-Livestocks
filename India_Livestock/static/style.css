@@ -1,0 +1,36 @@
+nav .navbar-brand .white
+{
+    color: #ffffff;
+}
+
+nav .navbar-brand .orange
+{
+    color: #ff9933;
+}
+
+nav .navbar-brand .green
+{
+    color: #138808;
+}
+
+body {
+    background: url('/static/stijn-te-strake-UdhpcfImQ9Y-unsplash (1).jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  }
+
+blockquote {
+    border:none;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    margin-bottom:-30px;
+    quotes: "\201C""\201D""\2018""\2019";
+    font-size: 50px;
+    color: #FF4500;
+}
+
+.about-us {
+    background-color: #Ffc0cb;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    opacity: 0.6;
+}
+
