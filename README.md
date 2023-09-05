@@ -95,12 +95,6 @@ The structure of the directory project is as follows
 >
 >    -readme.md(You're here)
 
-# How to run
--Make sure you have flask, sqlite3 and the cs50 library installed on your local environment.
--open the terminal
--cd to the project directory
--type >flask run
--open the link it gives.
 
 # How to reach me?
 
