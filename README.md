@@ -56,7 +56,7 @@ This page is the homepage of the website. It's a static webpage, with a quoatati
 This files are the jinja templates for the data that is to be rendered, for districts and states respectively.
 
 ## app.py
-This is the driver file of the entire project. It imports the libraries, cs50, flask, os, etc.
+This is the driver file of the entire project. It imports the libraries, flask, etc.
 #### Routing
 Routes have been created in the app.py file according to the layout of the directories and the need of the webpage.
 
@@ -105,5 +105,3 @@ The structure of the directory project is as follows
 -email: amiyavatsa1807@gmail.com
 
 Thank You!
-
-This was CS50
